@@ -1,0 +1,7 @@
+Profile
+Dasboard
+        Bid Page
+        Bids
+        Candidate--(to Check candiate )
+	to search candidate
+		list

@@ -1,0 +1,207 @@
+Name - Career Up
+	Tag line
+
+Frontend - React JS
+DB - Mongo DB
+Backend - Node JS
+
+Project Lead
+	Abhinav
+
+Planning
+	Bilal
+--
+======================
+Front-end : 
+	UI - Ravi + Arham
+	Logic - Prathamesh + Bilal + Abhinav (Ritik)
+Back-end : Ritik + Abhinav (Bilal)
+Database : Ritik + Prathamesh 
+======================
+Development
+  FrontEnd
+	UI	- Ravi + Arham
+	Logic	- Bilal + Prathamesh + Abhinav
+
+  Backend
+	API	- person
+	DB	- person
+		MongoDB
+--
+Digital Marketing + SEO
+	person
+---
+Sales
+	person
+----
+Investor
+	person
+--
+Budget
+	domain+hosting+marketing+premium licence
+
+------------------
+
+Problems
+
+Authentication
+	email
+	phone no.
+
+	if(fresher)
+		colg id(pic)
+	else{
+		last offer letter 	or
+		last salary slip
+	}
+----	
+
+Interview
+	before bid
+	1 or 2 round of interview	
+
+---
+
+Revenue
+	1. Candidate pay for 1 priority
+	2. HR will pay
+		Buy bid
+		premium search
+	3. Ads
+-------------------
+
+Blue print
+
+	Homepage		done
+	Candidate signup 	done
+	HR signup		done
+	login			done
+	contact us
+
+	why careerUp
+	pricing
+	explore
+	Campanies
+
+	dashboard
+		HR
+		candidate
+--------------
+
+Technology
+
+Angular/React
+MongoDB
+node/python
+----
+
+Story line
+
+candidate - 3 years
+
+	homepage
+	signup
+	skils+ctc
+	interview availability (time slot)
+	profile live - time limit
+	final
+	offer 
+	profile unlive
+	logout
+--
+
+HR
+	homepage
+	signup
+	search candidate
+	book candidate availability for interview
+	bid
+	offer
+-----
+
+angular
+4 file 1 ts, test, 1 html
+scss
+30 min
+25 min
+x = blue
+color - x
+--
+scss - 25 min
+angular 2 hour - 2 din
+-----------
+
+Agile 
+--
+Phase - 1
+Scrum/
+Standup
+--
+Phase - 2
+Phase - 3
+
+
+div
+	h1
+		p
+
+css :
+
+div h1 p{
+	color : red
+}
+
+@
+
+SCSS
+div{
+	h1 {
+		p {
+			color : red;
+			@phone{
+			color : green
+			}
+			@tab{
+			color : blue
+			}
+		}
+	}
+}
+
+
+	
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

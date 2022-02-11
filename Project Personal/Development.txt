@@ -1,0 +1,16 @@
+1. Home page
+	nav
+	footer
+	main(temp)
+
+2. signup page
+	HR
+	candidate
+
+3. signin/login
+	HR
+	Candidate
+
+4. Profile
+	candidate
+	HR

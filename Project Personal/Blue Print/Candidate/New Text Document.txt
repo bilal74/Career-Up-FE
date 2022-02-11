@@ -1,0 +1,6 @@
+profile
+dashboard
+	bid page
+	hr dekh chuke h ya nhi
+	availability
+	bids

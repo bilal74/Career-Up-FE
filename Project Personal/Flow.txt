@@ -1,0 +1,79 @@
+Landing page
+
+	Homepage
+		login
+		signup
+
+	Signup
+		details profile
+			email id
+			no.
+			password
+
+	Signin
+		availability(must be 100% profile)
+			full profile
+				details
+				live
+			
+			chat(phase-2)
+			current hr ko show nhi ho profile
+			bid disabled
+			old bids(phase - 2)
+
+			if(he accept)
+				profile deactivate
+----
+
+For HR
+
+Landing page
+
+	Homepage
+		login
+		signup
+	
+	Signup
+		details profile
+			email id (professional)
+			company name
+			no.
+			password
+
+	Signin
+		top profile(phase - 2)
+		search	
+			result
+				5-6
+				chat
+				bid enable
+--
+
+Data static
+
+HR premium
+candidate stars
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
